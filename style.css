@@ -5,9 +5,6 @@ body{
   margin-top: 0;
   font-family: play;
 }
-.header{
-  background-color: ;
-}
   img{
   border-radius:50%;
   shadow: 5px red;
@@ -15,7 +12,7 @@ body{
   margin-left: 35px;
   margin-right: 55px;
   margin-top: 20px;
-    float: left;
+  float: left;
 }
 h1{
   font-size: 20px;
@@ -24,11 +21,12 @@ h1{
   margin-right: 30px;
 }
 .bio{
-  font-size: 35px;
+  font-size: 25px;
   line-height: 1.5;
   padding-bottom: 10px;
   margin-right: 15px;
-  margin-top: 90px;
+  margin-top: 40px;
+  margin-bottom: 5px;
 }
 
 .ccbtn{
@@ -51,7 +49,7 @@ h1{
   font-family: caveat;
 }
 .aboutbio{
-  font-size: 35px;
+  font-size: 25px;
   color: white;
   border: 2px solid red;
   border-top-right-radius: 100px;
@@ -85,6 +83,8 @@ h1{
   color: black;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
   margin: 0px;
   padding-left: 45px;
   padding-bottom: 30px;
@@ -92,7 +92,7 @@ h1{
 
 .skills1{
   color: white;
-  font-size: 55px;
+  font-size: 45px;
   margin-bottom: 25px;
   margin-top: 5px;
   text-align: center;
@@ -107,7 +107,7 @@ h1{
   border-top-left-radius: 40px;
   border-top-right-radius: 40px;
   text-decoration: none;
-  font-size: 35px;
+  font-size: 30px;
   padding: 5px;
   color: black;
   margin-inline-end: 15px;
@@ -143,11 +143,11 @@ h1{
   text-align: center;
   color: green;
   margin: 0;
-  font-size: 40px;
+  font-size: 10px;
   line-height: 0.99;
 }
 .big{
-  font-size: 55px;
+  font-size: 35px;
   margin: 0;
   margin-top: 75px;
   text-align: center;
@@ -161,6 +161,7 @@ h1{
 .button3{
   color: crimson;
   text-decoration: none;
+  font-size:5px;
 }
 .edit{
   border: 2px solid red;
@@ -188,7 +189,7 @@ h1{
 .desc{
   text-align: center;
   margin: 15px;
-  font-size: 45px;
+  font-size: 25px;
   margin-bottom: 60px;
   margin-top: 60px;
 }
@@ -201,7 +202,7 @@ h1{
   margin-bottom: 135px;
 }
 .brand{
-  font-size: 45px;
+  font-size: 35px;
   color: red;
   text-align: center;
   margin: 0;
@@ -246,7 +247,7 @@ h1{
   border-bottom-right-radius: 30px;
   color: white;
   background-color: green;
-  font-size: 35px;
+  font-size: 15px;
   line-height: 1.5;
   padding-left: 45px;
 }
@@ -259,6 +260,7 @@ h1{
 }
 .descri{
   margin-top: 5px;
+  font-size: 10px;
 }
 .swift{
   border: 1px solid black;
@@ -270,7 +272,7 @@ h1{
   border-bottom-right-radius: 30px;
   color: white;
   background-color: red;
-  font-size: 35px;
+  font-size: 15px;
   line-height: 1.5;
   padding-left: 45px;
 }
@@ -287,6 +289,7 @@ h1{
   margin-top: 5px;
   margin-bottom: 25px;
   margin-left: 100px;
+  font-size: 10px;
 }
 .antlialogo{
   float: left;
@@ -302,7 +305,7 @@ h1{
   border-bottom-right-radius: 30px;
   color: black;
   background-color: white;
-  font-size: 35px;
+  font-size: 15px;
   line-height: 1.5;
   padding-left: 45px;
 }
@@ -312,6 +315,7 @@ h1{
 }
 .descri3{
   margin-top: 5px;
+  font-size: 10px;
 }
 .button3{
   padding: 5px 5px;
@@ -331,8 +335,8 @@ h1{
 .cr{
   margin-top: 20px;
   margin-bottom: 0;
-  font-size: 25px;
-  word-spacing: 0.5rem;
+  font-size: 10px;
+  word-spacing: 0.1rem;
 }
 input[type="text"]{
   width: 90%;
