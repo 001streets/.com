@@ -1,0 +1,356 @@
+body{
+  color: black;
+  background-color: powderblue;
+  margin: 0;
+  margin-top: 0;
+  font-family: play;
+}
+.header{
+  background-color: ;
+}
+  img{
+  border-radius:50%;
+  shadow: 5px red;
+  display: block;
+  margin-left: 35px;
+  margin-right: 55px;
+  margin-top: 20px;
+    float: left;
+}
+h1{
+  font-size: 20px;
+  padding-top: 2px;
+  text-align: right;
+  margin-right: 30px;
+}
+.bio{
+  font-size: 35px;
+  line-height: 1.5;
+  padding-bottom: 10px;
+  margin-right: 15px;
+  margin-top: 90px;
+}
+
+.ccbtn{
+  text-align: right;
+  margin-right: 65px;
+  margin-bottom: 75px;
+  margin-top: 50px;
+}
+.button{
+  padding: 10px 5px;
+  margin: 25px;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  font-size: 50px;
+}
+.location{
+  font-size: 35px;
+  margin-left: 85px;
+  font-family: caveat;
+}
+.aboutbio{
+  font-size: 35px;
+  color: white;
+  border: 2px solid red;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  margin-right: 100px;
+  padding: 0;
+  text-align: center;
+  margin-left: 0;
+  margin-top: 50px;
+  background-color: red;
+}
+.b{
+  font-size: 55px;
+  color: darkgreen;
+  padding-left: 45px
+}
+.social{
+  padding: 15px;
+  margin-bottom: 155px;
+  margin-top: 55px;
+}
+.buttonsocial{
+  font-size: 70px;
+  margin: 35px;
+  color: green;
+}
+
+.skills{
+  border: 1px solid black;
+  background-color: black;
+  color: black;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  margin: 0px;
+  padding-left: 45px;
+  padding-bottom: 30px;
+}
+
+.skills1{
+  color: white;
+  font-size: 55px;
+  margin-bottom: 25px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.buttonskills{
+  background-color: white;
+  border: 2px solid;
+  border-color: ghostwhite;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  text-decoration: none;
+  font-size: 35px;
+  padding: 5px;
+  color: black;
+  margin-inline-end: 15px;
+  line-height: 90px;
+}
+.services{
+  text-align: center;
+  margin-top: 196px;
+  margin-bottom: 150px;
+}
+
+.button2{
+  background-color: red;
+  border: 2px solid;
+  border-color: red;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  text-decoration: none;
+  font-size: 55px;
+  padding: 10px;
+  color: white;
+}
+.photo{
+  border: 2px green;
+  background-color: green;
+  color: black;
+  border-top-right-radius:  50%;
+  margin-right:0;
+}
+.ach{
+  text-align: center;
+  color: green;
+  margin: 0;
+  font-size: 40px;
+  line-height: 0.99;
+}
+.big{
+  font-size: 55px;
+  margin: 0;
+  margin-top: 75px;
+  text-align: center;
+}
+.company{
+  text-align: center;
+  font-size: 45px;
+  margin-top: 195px;
+  margin-bottom: 0;
+}
+.button3{
+  color: crimson;
+  text-decoration: none;
+}
+.edit{
+  border: 2px solid red;
+  background-color: red;
+  color: black;
+  border-top-left-radius:  50%;
+  margin-right: 0;
+}
+.editing{
+  text-align: right;
+  font-size: 45px;
+}
+.web{
+  border: 2px solid powderblue;
+  background-color: white;
+  color: black;
+  border-top-right-radius:  80%;
+  margin-left:0;
+}
+.nm{
+  font-size: 60px;
+  text-align: center;
+  margin: 15px;
+}
+.desc{
+  text-align: center;
+  margin: 15px;
+  font-size: 45px;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+.graphics{
+  margin-top: 45px;
+  margin-bottom: 135px;
+}
+.marketing{
+  margin-top: 45px;
+  margin-bottom: 135px;
+}
+.brand{
+  font-size: 45px;
+  color: red;
+  text-align: center;
+  margin: 0;
+  border: 1px solid powderblue;
+  background-color: green;
+  color: white;
+  padding: 15px;
+  line-height: 1.5;
+}
+.branding{
+  margin-top: 145px;
+}
+.testi{
+  text-align: center;
+  color: green;
+  font-size: 45px;
+  margin-bottom: 0;
+  margin-top: 150px;
+}
+.what{
+  text-align: center;
+  font-size: 75px;
+  color: red;
+  margin-top: 0;
+  margin-bottom: 85px;
+}
+.testimony{
+  border: 1px solid ghostwhite;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  background-color: black;
+  margin: 0;
+  color: white;
+}
+.Me{
+  border: 1px solid green;
+  margin: 85px;
+  padding: 25px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  color: white;
+  background-color: green;
+  font-size: 35px;
+  line-height: 1.5;
+  padding-left: 45px;
+}
+.001{
+  float: left;
+}
+.fox{
+  margin-bottom: 0;
+  margin-top: 95px;
+}
+.descri{
+  margin-top: 5px;
+}
+.swift{
+  border: 1px solid black;
+  margin: 85px;
+  padding: 25px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  color: white;
+  background-color: red;
+  font-size: 35px;
+  line-height: 1.5;
+  padding-left: 45px;
+}
+.swiftlogo{
+  float: right;
+  margin-top: 3px;
+}
+.name{
+  margin-top: 109px;
+  margin-bottom: 0;
+  margin-left: 210px;
+}
+.descri2{
+  margin-top: 5px;
+  margin-bottom: 25px;
+  margin-left: 100px;
+}
+.antlialogo{
+  float: left;
+  margin-top: 0;
+}
+.antlia{
+  border: 1px solid black;
+  margin: 85px;
+  padding: 25px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  color: black;
+  background-color: white;
+  font-size: 35px;
+  line-height: 1.5;
+  padding-left: 45px;
+}
+.name2{
+  margin-top: 130px;
+  margin-bottom: 0;
+}
+.descri3{
+  margin-top: 5px;
+}
+.button3{
+  padding: 5px 5px;
+  margin: 1px;
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  font-size: 25px;
+  border: 3px solid;
+  border-color: black;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: black;
+}
+.cr{
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-size: 25px;
+  word-spacing: 0.5rem;
+}
+input[type="text"]{
+  width: 90%;
+  font-size: 25px;
+  margin: 45px;
+  margin-top: 0;
+  padding: 40px;
+  border: 5px solid darkgreen;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
+label[for="rating"]{
+  text-align: center;
+  font-size: 35px;
+  margin: 45px;
+}
+input[type=text]:focus {
+  background-color: honeydew;
+  border: 5px solid red;
+  transition: 1s;
+}
